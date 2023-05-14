@@ -3,9 +3,9 @@ package config
 import "github.com/ilyakaznacheev/cleanenv"
 
 // Костыль
-const (
-	PostgresDev = true
-)
+//const (
+//	PostgresDev = true
+//)
 
 type (
 	Config struct {

@@ -4,7 +4,8 @@ import (
 	"github.com/Slintox/chat_server/pkg/database/postgres"
 )
 
-const tableName = `chat`
+// Not used yet
+// const tableName = `chat`
 
 type Repository interface {
 	// Methods
