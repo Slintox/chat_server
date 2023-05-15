@@ -1,0 +1,2 @@
+grpc_port: ":50053"
+postgres_dsn: "host=localhost port=54323 dbname=chat user=chat-user password=chat-password sslmode=disable"
